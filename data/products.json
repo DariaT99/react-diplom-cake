@@ -1,0 +1,138 @@
+[
+    {
+        "id": 20,
+        "category": 13,
+        "title": "Торт пряная вишня",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/1117/1018/products/Chanel-x-Adidas-Originals-NMD-Hu_480x480.jpg?v=1512941013",
+            "https://vestiairecollective.imgix.net/produit/5113054-1_1.jpg?auto=format&fm=pjpg"
+        ],
+        "sku": "1000000",
+        "manufacturer": "Chanel",
+        "color": "Черный",
+        "material": "Ткань",
+        "reason": "Прогулка",
+        "season": "Лето",
+        "heelSize": "3 см.",
+        "price": 12000,
+        "oldPrice": 14000,
+        "sizes": [
+            {
+                "size": "10 US",
+                "avalible": true
+            },
+            {
+                "size": "15 US",
+                "avalible": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "category": 13,
+        "title": "Торт сникерс",
+        "images": [
+            "https://s09.radikal.ru/i182/1408/8c/c5e4699d3c9c.jpg",
+            "https://avatars.mds.yandex.net/get-pdb/27625/ab69018b-6039-4b17-9f62-536d1fcd5df2/s800"
+        ],
+        "sku": "1000001",
+        "manufacturer": "Dolce & Gabbana",
+        "color": "Фиолетовый",
+        "material": "Бархат",
+        "reason": "Высока мода",
+        "season": "Лето",
+        "heelSize": "7 см.",
+        "price": 3000,
+        "sizes": [
+            {
+                "size": "12 US",
+                "avalible": true
+            },
+            {
+                "size": "16 US",
+                "avalible": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "category": 13,
+        "title": "Капкейки",
+        "images": [
+            "http://www.shoes-report.ru/upload/iblock/0df/v_moskve_otkrylsya_samyy_bolshoy_v_evrope_butik_dolce_gabbana.jpg",
+            "http://ivday.ru/images/photos/medium/article13542.jpg"
+        ],
+        "sku": "1000002",
+        "manufacturer": "Dolce & Gabbana",
+        "color": "Черный",
+        "material": "Ткань",
+        "reason": "Высока мода",
+        "season": "Лето",
+        "heelSize": "8 см.",
+        "price": 4000,
+        "sizes": [
+            {
+                "size": "14 US",
+                "avalible": true
+            },
+            {
+                "size": "18 US",
+                "avalible": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "category": 13,
+        "title": "Набор Лав ис",
+        "images": [
+            "https://cdn.raffaello-network.com/item_images/d&gmsho-cs1475ab731-large-1.jpg",
+            "https://cdn.raffaello-network.com/item_images/d&gmsho-cs1475ab731-carousel-2.jpg"
+        ],
+        "sku": "1000003",
+        "manufacturer": "Dolce & Gabbana",
+        "color": "Серый",
+        "material": "Кожа",
+        "reason": "Спорт",
+        "season": "Лето",
+        "heelSize": "2 см.",
+        "price": 3500,
+        "sizes": [
+            {
+                "size": "14 US",
+                "avalible": true
+            },
+            {
+                "size": "18 US",
+                "avalible": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "category": 13,
+        "title": "Торт детский",
+        "images": [
+            "https://cdn-images.farfetch-contents.com/12/32/11/36/12321136_10891335_322.jpg",
+            "https://cdn-images.farfetch-contents.com/12/32/11/36/12321136_10891337_322.jpg"
+        ],
+        "sku": "1000004",
+        "manufacturer": "Dolce & Gabbana",
+        "color": "Черный",
+        "material": "Кожа",
+        "reason": "Высокая мода",
+        "season": "Лето",
+        "heelSize": "8 см.",
+        "price": 2500,
+        "sizes": [
+            {
+                "size": "14 US",
+                "avalible": true
+            },
+            {
+                "size": "18 US",
+                "avalible": false
+            }
+        ]
+    }
+]
