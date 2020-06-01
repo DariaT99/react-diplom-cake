@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/heroku-cra-node" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/heroku-cra-node/react-cake" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/heroku-cra-node/react-cake/node-js-getting-started" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/heroku-cra-node/server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/node-js-getting-started" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/react-cake" vcs="Git" />
   </component>

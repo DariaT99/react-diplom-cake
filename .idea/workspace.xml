@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce6a16d-e8c2-4d47-840b-515575f9b906" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-diplom-cake.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/empty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heroku-cra-node" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/heroku-cra-node/Procfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/heroku-cra-node/server/Procfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/heroku-cra-node/server/empty.js" afterDir="false" />
@@ -26,332 +11,7 @@
       <change afterPath="$PROJECT_DIR$/heroku-cra-node/src/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/heroku-cra-node/src/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/heroku-cra-node/web.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/catalogue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/style-catalogue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/style-favorite.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/style-favorite.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/style-order.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/style-order.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/style-product-card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/css/style.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/favorite.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/checkbox-checked-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/checkbox-checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue-sprite-min.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__item-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__overlooked-slider-item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__overlooked-slider-item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__overlooked-slider-item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__overlooked-slider-item-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__overlooked-slider-item-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__product_favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__product_favorite_chosen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/catalogue-pics/product-catalogue__sort-by-drop-down-chevron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/envelop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/footer-waves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/footer_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/header-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/header-main__pic_is-active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/header-waves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/header__hidden-panel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/header__profile_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/new-deals-background-wave.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/new-deals__product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/new-deals__product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/new-deals__product_active.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/new-deals__product_favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/new-deals__product_favorite_chosen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/new-deals__product_favorite_refuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/drop-down-up-chevron-sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__favorite-fill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__favourite-product-pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__favourite-product-slider-item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__favourite-product-slider-item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__favourite-product-slider-item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__similar-products-slider-item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__similar-products-slider-item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__similar-products-slider-item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/product-card__size-ruler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-card-pics/zoom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/product-list__pic_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/sales-and-news__item_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/sales-and-news__item_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/sales-and-news__item_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/sales-and-news__item_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/slider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/slider180deg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/img/slider_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/js/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/order_done.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/product-card-desktop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/checkbox-checked-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/checkbox-checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue-sprite-min.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__item-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__overlooked-slider-item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__overlooked-slider-item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__overlooked-slider-item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__overlooked-slider-item-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__overlooked-slider-item-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__product_favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__product_favorite_chosen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/catalogue-pics/product-catalogue__sort-by-drop-down-chevron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/envelop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/footer-waves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/footer_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/header-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/header-main__pic_is-active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/header-waves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/header__hidden-panel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/header__profile_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/new-deals-background-wave.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/new-deals__product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/new-deals__product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/new-deals__product_active.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/new-deals__product_favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/new-deals__product_favorite_chosen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/new-deals__product_favorite_refuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/drop-down-up-chevron-sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__favorite-fill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__favourite-product-pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__favourite-product-slider-item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__favourite-product-slider-item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__favourite-product-slider-item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__similar-products-slider-item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__similar-products-slider-item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__similar-products-slider-item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/product-card__size-ruler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-card-pics/zoom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/product-list__pic_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sales-and-news__item_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sales-and-news__item_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sales-and-news__item_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sales-and-news__item_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slider180deg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slider_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/catalog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/favourites.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/cart_empty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/cat-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-cat-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-cat-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-desktop-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-desktop-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-fav-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-fav-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-item-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-item-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-order-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/des-order-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/desktop-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/fav-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/favorites.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/featured.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/from-header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/item-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/order-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/ordering.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/pagination.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/subscribe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/to-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/item.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/menu-accord.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/order.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/order_done.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Catalogue/Catalogue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Catalogue/CatalogueItemsData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Catalogue/CatalogueListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Catalogue/CatalogueProductList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Catalogue/CatalogueSideBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Catalogue/style-catalogue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Favorite/Favorite.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Favorite/style-favorite.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Favorite/style-favorite.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Fetch/Fetch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Subscribe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/DroppedMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMainProductList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMainProductListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/MainMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/MainMenuCategories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/TopMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/DealsSlider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/DealsSliderListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/MainPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/MainPageData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/NewDeals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/NewDealsMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/NewDealsMenuListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/sales-and-news_item_1.5e217ba5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Order/BasketItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Order/Order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Order/OrderConfimed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Order/style-order.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Order/style-order.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OrderEnd/OrderEnd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Pagination/Pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/FavoriteSlider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/FavoriteSliderListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/OverlookedSlider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/ProductCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/ProductCardSizeListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/SimilarSlider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/SimilarSliderListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/SimilarSliderProductInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/style-product-card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SitePath/SitePath.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/style.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/checkbox-checked-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/checkbox-checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue-sprite-min.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__item-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__overlooked-slider-item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__overlooked-slider-item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__overlooked-slider-item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__overlooked-slider-item-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__overlooked-slider-item-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__product_favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__product_favorite_chosen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/catalogue-pics/product-catalogue__sort-by-drop-down-chevron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/envelop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/footer-waves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/footer_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/header-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/header-main__pic_is-active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/header-waves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/header__hidden-panel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/header__profile_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/new-deals-background-wave.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/new-deals__product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/new-deals__product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/new-deals__product_active.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/new-deals__product_favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/new-deals__product_favorite_chosen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/new-deals__product_favorite_refuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/drop-down-up-chevron-sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__favorite-fill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__favourite-product-pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__favourite-product-slider-item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__favourite-product-slider-item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__favourite-product-slider-item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__similar-products-slider-item-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__similar-products-slider-item-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__similar-products-slider-item-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/product-card__size-ruler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-card-pics/zoom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/product-list__pic_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/sales-and-news__item_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/sales-and-news__item_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/sales-and-news__item_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/sales-and-news__item_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/slider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/slider180deg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/img/slider_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/js/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heroku-cra-node" beforeDir="false" afterPath="$PROJECT_DIR$/heroku-cra-node" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/heroku-cra-node/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/heroku-cra-node/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/heroku-cra-node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/heroku-cra-node/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/heroku-cra-node/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/heroku-cra-node/package-lock.json" afterDir="false" />
@@ -393,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -404,19 +64,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/heroku-cra-node/server/web.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heroku-cra-node/server/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="187">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -424,22 +75,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/heroku-cra-node/server/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heroku-cra-node/server/empty.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heroku-cra-node/package.json">
+        <entry file="file://$PROJECT_DIR$/heroku-cra-node/server/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="187">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -465,7 +111,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/heroku-cra-node" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/heroku-cra-node/server" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -501,8 +147,10 @@
         <option value="$PROJECT_DIR$/react-cake/Procfile" />
         <option value="$PROJECT_DIR$/heroku-cra-node/web.js" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/heroku-cra-node/server/web.js" />
         <option value="$PROJECT_DIR$/heroku-cra-node/server/index.js" />
         <option value="$PROJECT_DIR$/heroku-cra-node/server/package.json" />
+        <option value="$PROJECT_DIR$/heroku-cra-node/server/Procfile" />
       </list>
     </option>
   </component>
@@ -594,12 +242,12 @@
       <workItem from="1590741426697" duration="906000" />
       <workItem from="1590747372679" duration="13820000" />
       <workItem from="1590947390066" duration="4749000" />
-      <workItem from="1591009523999" duration="902000" />
+      <workItem from="1591009523999" duration="4526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59723000" />
+    <option name="totallyTimeSpent" value="63347000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -612,8 +260,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15730338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15730338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -627,7 +276,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.33994335" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009914" side_tool="true" weight="0.4036827" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4990086" visible="true" weight="0.46600565" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4990086" visible="true" weight="0.34560907" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -637,9 +286,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -799,16 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/empty.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/heroku-cra-node/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/heroku-cra-node/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -826,7 +462,14 @@
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heroku-cra-node/server/web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -837,20 +480,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/empty.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heroku-cra-node/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/heroku-cra-node/server/empty.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/heroku-cra-node/server/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="187">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/heroku-cra-node/server/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
